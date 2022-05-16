@@ -1,4 +1,3 @@
-//Note that I don't own this file and has a license on it, I give credit to Naruyoko.
 //Code snippets and templates from Decimal.js
 
 ;(function (globalScope) {
