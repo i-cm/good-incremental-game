@@ -1,6 +1,6 @@
 # Ideas #
 1. HTML, JS and CSS.
-2. "Polynomial growth" game genre
+2. "Polynomial growth" game subgenre
 3. Tabs and subdivided tabs.
 4. Prestige currency
 5. Multiple Prestige layers
